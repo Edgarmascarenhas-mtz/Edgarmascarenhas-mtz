@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edgar Mascarenhas
 - 🧑‍🎓 Sou Formado em Gestão Financeira
-- 🌱 Atualmente estudo as seguintes linguagens e skills: Python, Machine Learning, SQL, Power BI e Excel
+- 🌱 Atualmente estudo as seguintes linguagens e skills: Python, Machine Learning, SQL, Power BI e Excel.
 - 💬 Estudante de Ciência de Dados na seguinte plataforma: DNC
 - 📫 How to reach me edgar.spp@hotmail.com
 - ⚡ Meu objetivo: Ajudar empresas e instituições a melhoras suas tomadas de decisões por meio da análise e projeções de dados.
